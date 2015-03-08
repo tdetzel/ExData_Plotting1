@@ -1,4 +1,4 @@
-## plot3.R -- code for coursera plotting assignment
+## plot3.R -- an update of code for Exploratory Data Analysis plotting assignment
 
 ## plotting code is lower down
 ## set working directory
