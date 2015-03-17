@@ -4,7 +4,7 @@
 ## set working directory
 ## optional check
 ## if (!file.exists("Data")) {
-##  dir.create("ata")
+##  dir.create("Data")
 ##  }
 
 setwd("../Data")
